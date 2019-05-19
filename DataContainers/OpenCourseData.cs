@@ -8,7 +8,7 @@ namespace DataContainers
         /// Location of an open course
         /// </summary>
         private LocationData Location { get; set; }
-
+        
         /// <summary>
         /// Row number
         /// </summary>
